@@ -2,14 +2,14 @@ import express, { json } from 'express';
 import fs from 'fs';
 import bodyparser from 'body-parser';
 
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 
 const app = express();
 
 app.use(bodyparser.json());
 
 app.listen( PORT, () => {
-     console.log ("Server listening on port 3000");
+     console.log (`Servidor escuchando en el puerto ${PORT}`);
 });
 
 const ReadData = ()=>{
