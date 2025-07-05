@@ -1,0 +1,187 @@
+{
+  "last_id": 13,
+  "collections": [
+    {
+      "id": 1,
+      "date": "2025-07-01",
+      "start_time": "10:06",
+      "end_time": "10:36",
+      "status": "In Progress",
+      "driver_id": "D-1001",
+      "container": {
+        "container_id": "xt-001-001",
+        "district": "San Juan de Lurigancho",
+        "avenue": "Av. Canto Grande",
+        "block_number": 13
+      }
+    },
+    {
+      "id": 2,
+      "date": "2025-07-01",
+      "start_time": "11:48",
+      "end_time": "12:18",
+      "status": "Pending",
+      "driver_id": "D-1002",
+      "container": {
+        "container_id": "xt-001-002",
+        "district": "San Juan de Lurigancho",
+        "avenue": "Av. Próceres de la Independencia",
+        "block_number": 48
+      }
+    },
+    {
+      "id": 3,
+      "date": "2025-07-01",
+      "start_time": "10:54",
+      "end_time": "11:24",
+      "status": "In Progress",
+      "driver_id": "D-1003",
+      "container": {
+        "container_id": "xt-001-003",
+        "district": "San Juan de Lurigancho",
+        "avenue": "Av. El Sol",
+        "block_number": 27
+      }
+    },
+    {
+      "id": 4,
+      "date": "2025-07-01",
+      "start_time": "11:50",
+      "end_time": "12:20",
+      "status": "In Progress",
+      "driver_id": "D-1004",
+      "container": {
+        "container_id": "xt-001-004",
+        "district": "San Juan de Lurigancho",
+        "avenue": "Av. Wiesse",
+        "block_number": 25
+      }
+    },
+    {
+      "id": 5,
+      "date": "2025-07-01",
+      "start_time": "09:32",
+      "end_time": "10:02",
+      "status": "In Progress",
+      "driver_id": "D-1005",
+      "container": {
+        "container_id": "xt-001-005",
+        "district": "San Juan de Lurigancho",
+        "avenue": "Av. Próceres de la Independencia",
+        "block_number": 38
+      }
+    },
+    {
+      "id": 6,
+      "date": "2025-07-01",
+      "start_time": "10:52",
+      "end_time": "11:22",
+      "status": "Completed",
+      "driver_id": "D-1006",
+      "container": {
+        "container_id": "xt-001-006",
+        "district": "San Juan de Lurigancho",
+        "avenue": "Av. Próceres de la Independencia",
+        "block_number": 27
+      }
+    },
+    {
+      "id": 7,
+      "date": "2025-07-01",
+      "start_time": "09:32",
+      "end_time": "10:02",
+      "status": "Pending",
+      "driver_id": "D-1007",
+      "container": {
+        "container_id": "xt-001-004",
+        "district": "San Juan de Lurigancho",
+        "avenue": "Av. Santa Rosa",
+        "block_number": 49
+      }
+    },
+    {
+      "id": 8,
+      "date": "2025-07-07",
+      "start_time": "11:29",
+      "end_time": "11:00",
+      "status": "Completed",
+      "driver_id": "D-1020",
+      "container": {
+        "container_id": "xt-001-009",
+        "district": "San Juan de Lurigancho",
+        "avenue": "Av. El Sol",
+        "block_number": 39
+      }
+    },
+    {
+      "id": 9,
+      "date": "2025-07-01",
+      "start_time": "11:29",
+      "end_time": "11:59",
+      "status": "Completed",
+      "driver_id": "D-1009",
+      "container": {
+        "container_id": "xt-001-009",
+        "district": "San Juan de Lurigancho",
+        "avenue": "Av. El Sol",
+        "block_number": 39
+      }
+    },
+    {
+      "id": 10,
+      "date": "2025-07-01",
+      "start_time": "10:09",
+      "end_time": "10:39",
+      "status": "Completed",
+      "driver_id": "D-1010",
+      "container": {
+        "container_id": "xt-001-004",
+        "district": "San Juan de Lurigancho",
+        "avenue": "Av. Próceres de la Independencia",
+        "block_number": 15
+      }
+    },
+    {
+      "id": 11,
+      "date": "2025-07-03",
+      "start_time": "11:50",
+      "end_time": "12:20",
+      "status": "In Progress",
+      "driver_id": "D-1004",
+      "container": {
+        "container_id": "xt-001-004",
+        "district": "San Juan de Lurigancho",
+        "avenue": "Av. Wiesse",
+        "block_number": 25
+      }
+    },
+    {
+      "id": 12,
+      "date": "2025-07-01",
+      "start_time": "11:50",
+      "end_time": "12:20",
+      "status": "In Progress",
+      "driver_id": "D-1004",
+      "container": {
+        "container_id": "xt-001-004",
+        "district": "San Juan de Lurigancho",
+        "avenue": "Av. Wiesse",
+        "block_number": 25
+      }
+    },
+    {
+      "id": 13,
+      "date": "2025-07-01",
+      "start_time": "11:29",
+      "end_time": "11:59",
+      "status": "Completed",
+      "driver_id": "D-1009",
+      "container": {
+        "container_id": "xt-001-009",
+        "district": "San borja",
+        "avenue": "Av. la cultura",
+        "block_number": 39
+      }
+    }
+  ]
+}
