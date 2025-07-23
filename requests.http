@@ -6,7 +6,7 @@ GET http://localhost:3000/api/Districts HTTP/1.1
 
 ### buscar avenidas por distrito
 
-GET http://localhost:3000/API/Avenues?district=San Juan de Lurigancho HTTP/1.1
+GET http://localhost:3000/api/Avenues?district=San Juan de Lurigancho HTTP/1.1
 
 
 #### Buscar contenedor por distrito y avenida

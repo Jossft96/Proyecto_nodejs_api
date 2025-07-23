@@ -1,10 +1,13 @@
 import express, { json } from 'express';
 import fs from 'fs';
 import bodyparser from 'body-parser';
+import cors from 'cors';
 
 const PORT = process.env.PORT || 3000;
 
 const app = express();
+
+app.use(cors());
 
 app.use(bodyparser.json());
 
